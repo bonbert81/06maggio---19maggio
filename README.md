@@ -9,3 +9,8 @@
 ## Lstm
 ![lstm](/lstm65-195.png)
 
+## How's going after 8 days?
+![tot_cas6-13](/tot_cas6-13.png)
+![dec6-13](/dec6-13.png)
+![dim6-13](/dim6-13.png)
+![pos6-13](/pos6-13.png)
